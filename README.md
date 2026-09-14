@@ -1,5 +1,7 @@
 # 🕌 Yuk Sholat — Pixel Art Prayer Tracker
 
+![Android CI](https://github.com/fatihahilham23-design/yuksholat/actions/workflows/android-build.yml/badge.svg)
+
 Aplikasi Android pelacak shalat 5 waktu bergaya **pixel-art RPG 8-bit**. Gamifikasi ibadah: absen shalat dapat poin, raih streak, buka achievement, dan naik tier sambil dimanjakan animasi level-up ala Dragon Ball.
 
 > 100% offline. Perhitungan waktu shalat menggunakan rumus astronomi, tanpa koneksi internet.
