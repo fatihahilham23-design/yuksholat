@@ -4,6 +4,8 @@
 
 Aplikasi Android pelacak shalat 5 waktu bergaya **pixel-art RPG 8-bit**. Gamifikasi ibadah: absen shalat dapat poin, raih streak, buka achievement, dan naik tier sambil dimanjakan animasi level-up ala Dragon Ball.
 
+> 💾 **Download APK:** https://github.com/fatihahilham23-design/yuksholat/releases/latest
+
 > 100% offline. Perhitungan waktu shalat menggunakan rumus astronomi, tanpa koneksi internet.
 
 ---
