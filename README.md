@@ -12,6 +12,14 @@ Aplikasi Android pelacak shalat 5 waktu bergaya **pixel-art RPG 8-bit**. Gamifik
 
 ---
 
+## 📸 Screenshot
+
+| Home | Log Shalat | Achievement | Pengaturan |
+|---|---|---|---|
+| ![Home](screenshots/home-screen.jpeg) | ![Log Shalat](screenshots/log-shalat.jpeg) | ![Achievement](screenshots/achievements.jpeg) | ![Pengaturan](screenshots/settings.jpeg) |
+
+---
+
 ## ✨ Fitur Unggulan
 
 - **Tracker 5 Waktu Shalat** — Absen setiap shalat, dapat poin (+100 tepat waktu / +30 qadha)
