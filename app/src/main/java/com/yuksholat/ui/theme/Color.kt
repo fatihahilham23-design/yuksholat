@@ -1,0 +1,51 @@
+package com.yuksholat.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val PixelGold = Color(0xFFD4A017)
+val PixelGoldDark = Color(0xFFA87B00)
+val PixelGreen = Color(0xFF5B8C5A)
+val PixelGreenDark = Color(0xFF3E6B3E)
+val PixelRed = Color(0xFFC0392B)
+val PixelBlue = Color(0xFF3A7CA5)
+val PixelPurple = Color(0xFF7A6A9A)
+
+val PixelBgDark = Color(0xFF1A1208)
+val PixelBgCard = Color(0xFF2A1F12)
+val PixelBgCardLight = Color(0xFF3D2E1A)
+val PixelWood = Color(0xFFA0704B)
+val PixelWoodDark = Color(0xFF5D3A1F)
+val PixelWoodLight = Color(0xFFC9A06C)
+
+val EarthCream = Color(0xFFE8D5B7)
+val EarthSand = Color(0xFFC4A882)
+val EarthMoss = Color(0xFF4A6741)
+val EarthDark = Color(0xFF1A1208)
+val EarthBrown = Color(0xFF6B4226)
+
+val PasFotoRed = Color(0xFFC0392B)
+val SuitBlack = Color(0xFF1B1B1B)
+val SuitGray = Color(0xFF282840)
+val ShirtWhite = Color(0xFFE8D5B7)
+val TieBlack = Color(0xFF0A0A0A)
+val SkinTone = Color(0xFFDFC9A0)
+val HairBlack = Color(0xFF2B1E12)
+
+val SkySubuhTop = Color(0xFF1C0A28)
+val SkySubuhBottom = Color(0xFF8B5A2B)
+val SkyMorningTop = Color(0xFF6B7FA0)
+val SkyMorningBottom = Color(0xFFB8C5D6)
+val SkyDzuhurTop = Color(0xFF4A6B8A)
+val SkyDzuhurBottom = Color(0xFF9BB8D4)
+val SkyAsharTop = Color(0xFF8B6F47)
+val SkyAsharBottom = Color(0xFFD4A017)
+val SkyMaghribTop = Color(0xFF3D115E)
+val SkyMaghribMiddle = Color(0xFF8B5A2B)
+val SkyMaghribBottom = Color(0xFFC9A06C)
+val SkyIsyaTop = Color(0xFF050505)
+val SkyIsyaBottom = Color(0xFF1A1208)
+
+val PixelGrassTop = Color(0xFF5B8C5A)
+val PixelGrassBase = Color(0xFF3E6B3E)
+val PixelDirtTop = Color(0xFFA0704B)
+val PixelDirtBase = Color(0xFF5D3A1F)

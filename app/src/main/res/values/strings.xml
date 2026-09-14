@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yuk Sholat</string>
+    <string name="channel_prayer_name">Jadwal Shalat</string>
+    <string name="channel_prayer_desc">Notifikasi waktu shalat 5 waktu bergaya 8-bit</string>
+</resources>

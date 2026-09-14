@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#10151A"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/widget_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🕌 YUK SHOLAT"
+        android:textColor="#F1C400"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/widget_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Memuat..."
+        android:textColor="#69F0AE"
+        android:textSize="11sp"
+        android:layout_marginTop="4dp" />
+
+</LinearLayout>
