@@ -6,6 +6,8 @@ Aplikasi Android pelacak shalat 5 waktu bergaya **pixel-art RPG 8-bit**. Gamifik
 
 > 💾 **Download APK:** https://github.com/fatihahilham23-design/yuksholat/releases/latest
 
+> 📲 **Cara install di HP:** buka link APK → tap **yuksholat.apk** → jika muncul *"Install blocked"* → **Settings → Allow from this source** (Chrome) → **Install**.
+
 > 100% offline. Perhitungan waktu shalat menggunakan rumus astronomi, tanpa koneksi internet.
 
 ---

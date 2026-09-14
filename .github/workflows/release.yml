@@ -32,6 +32,9 @@ jobs:
       - name: Build debug APK
         run: ./gradlew assembleDebug --no-daemon
 
+      - name: Rename APK
+        run: mv app/build/outputs/apk/debug/app-debug.apk app/build/outputs/apk/debug/yuksholat.apk
+
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
@@ -40,7 +43,12 @@ jobs:
           body: |
             🕌 **Yuk Sholat** — Pixel Art Prayer Tracker
 
-            Install [Yuk Sholat.apk](https://github.com/fatihahilham23-design/yuksholat/releases/latest/download/app-debug.apk) langsung di perangkat Android.
+            Install [Yuk Sholat.apk](https://github.com/fatihahilham23-design/yuksholat/releases/latest/download/yuksholat.apk) langsung di perangkat Android.
+
+            ### 📲 Cara Install di HP
+            1. Tap link APK di atas → download.
+            2. Jika muncul *"Install blocked"* → tap **Settings** → aktifkan **Allow from this source** (Chrome).
+            3. Kembali → tap **Install**.
 
             ### Fitur
             - Tracker 5 waktu shalat + poin gamifikasi
@@ -51,4 +59,4 @@ jobs:
             - 100% offline (perhitungan astronomi)
           draft: false
           prerelease: false
-          files: app/build/outputs/apk/debug/app-debug.apk
+          files: app/build/outputs/apk/debug/yuksholat.apk
